@@ -35,11 +35,11 @@ Fitness Club is built using the following technologies:
 Fitness Club is developed by Kalyan Developer. As a passionate software developer with expertise in front-end development, I am committed to delivering high-quality solutions that meet the needs of users and exceed their expectations.
 
 ## Screenshots
-![Screenshot 1](/screenshots/1(1).png)
-![Screenshot 2](/screenshots/1(2).png)
-![Screenshot 3](/screenshots/1(3).png)
-![Screenshot 4](/screenshots/1(5).png)
-![Screenshot 5](/screenshots/2.png)
+![Screenshot 1](/screenshots/1.png)
+![Screenshot 2](/screenshots/2.png)
+![Screenshot 3](/screenshots/3.png)
+![Screenshot 4](/screenshots/4.png)
+![Screenshot 5](/screenshots/5.png)
 
 
 ## Installation
